@@ -1,2 +1,3 @@
 alpine
-kasmweb/nginx:space4y/nxapi-s3s
+kasmweb/nginx:1.25.3
+space4y/nxapi-s3s
